@@ -6,3 +6,4 @@
 - [File Renamer](./4-fileRenamer/)
 - [Markdown To HTML Convertor](./5-mdToHTML/)
 - [Weather Forecaster](./6-weather/)
+- [Synchronous and Asynchronous Systems](./7-syncAsync/)
