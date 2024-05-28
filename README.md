@@ -3,3 +3,4 @@
 - [Word Count Tool](./wc-tool/)
 - [Quizz Game](./quizz/)
 - [URL shortener](./urlshort/)
+- [Create Your Own Adventure](./cyoa/)
