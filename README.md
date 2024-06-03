@@ -4,3 +4,4 @@
 - [Quizz Game](./quizz/)
 - [URL shortener](./urlshort/)
 - [Create Your Own Adventure](./cyoa/)
+- [Link Parser](./linkparser/)
