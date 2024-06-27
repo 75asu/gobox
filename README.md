@@ -6,3 +6,4 @@
 - [Create Your Own Adventure](./cyoa/)
 - [Link Parser](./linkparser/)
 - [TODO List 1](./todo1/)
+- [RSS Aggregator](./rssagg/)
