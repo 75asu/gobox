@@ -1,3 +1,5 @@
+# Project Notes
+
 - collect port from env file
 - add a router
 - pass route and port to a server
@@ -28,3 +30,7 @@
   - hook up the handler in a route in main
   - define the handleCreateUser properly
 - Create new model User and use this in handlerCreateUser
+- Add database migration for apikey and update the query to add GetUserByAPIKey
+- Add a handler for getuser
+- Add auth package GetAPIKey
+- Attach getuser handler to a route in main.go
